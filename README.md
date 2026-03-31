@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/icon.png" width="140" />
+  <img src="assets/icon.png" width="140"
+       style="border-radius: 22%; box-shadow: 0 8px 25px rgba(0,0,0,0.3);" />
 </p>
 
 <h1 align="center">GameMaster</h1>
